@@ -1,0 +1,6 @@
+# Tempel bagian ini ke pubspec.yaml (di bawah "flutter:" yang sudah ada).
+# Indentasi memakai SPASI (2 spasi per tingkat), jangan TAB.
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
